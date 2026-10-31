@@ -23,14 +23,3 @@ Me gusta llevar un producto completo, desde entender el problema del negocio has
 **Contacto**
 
 🌐 [soyalbert.dev](https://soyalbert.dev) · ✉️ amtzran@gmail.com
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amtzran&show_icons=true&hide_border=true&theme=transparent&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzran&layout=compact&hide_border=true&theme=transparent&locale=es" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amtzran&hide_border=true&theme=transparent&locale=es" alt="Racha de contribuciones" />
-</p>
